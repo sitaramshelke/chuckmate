@@ -1,10 +1,13 @@
 {
-  "name": "norris-cli",
+  "name": "chuckmate",
   "version": "1.0.0",
   "description": "Get Chuck Norris Jokes at command line",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sitaramshelke/chuckmate.git"
   },
   "author": "@sitaramshelke",
   "license": "ISC",
