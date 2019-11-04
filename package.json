@@ -16,7 +16,7 @@
     "chuckmate": "bin/chuckmate"
   },
   "dependencies": {
-    "commander": "^2.17.1",
+    "commander": "^4.0.0",
     "request": "^2.88.0"
   }
 }
